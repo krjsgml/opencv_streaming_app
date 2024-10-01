@@ -1,17 +1,17 @@
-opencv streaming app project
+opencv streaming app project<br>
 
-[keyboard]
-1, 2 : 프레임을 상하좌우 반전
-g : 프레임을 그레이스케일로 변환
-c : 얼굴 인식
-m : 얼굴 모자이크
-b : 얼굴 외 배경 모자이크
-d : 스티커 제거 모드(마우스 좌클릭)
+[keyboard]<br>
+1, 2 : 프레임을 상하좌우 반전<br>
+g : 프레임을 그레이스케일로 변환<br>
+c : 얼굴 인식<br>
+m : 얼굴 모자이크<br>
+b : 얼굴 외 배경 모자이크<br>
+d : 스티커 제거 모드(마우스 좌클릭)<br><br>
 
-[mouse]
-left button : 스티커 부착
-right button : 스티커 선택
+[mouse]<br>
+left button : 스티커 부착<br>
+right button : 스티커 선택<br><br>
 
 
-[참고]
+[참고]<br>
 얼굴 인식은 haarcascade를 이용(haar_cascade_frontalface_defualt.xml 이용)
