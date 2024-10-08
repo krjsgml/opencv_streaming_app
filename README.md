@@ -1,4 +1,5 @@
 opencv streaming app project<br>
+opencv를 이용한 스트리밍 구현하기<br>
 
 [keyboard]<br>
 1, 2 : 프레임을 상하좌우 반전<br>
